@@ -1,0 +1,96 @@
+20131209
+[19:20]flyzhy@bogon:~/Desktop/CAHEC/zhy[0]
+$ ~/workspace/GitHub/zhenghaiyong/BioInfo_CAHEC-VRL-ISM/scripts/12-extract_family.gbk_from_gbk.seq.gz-zhy.py ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022 Orthomyxoviridae
+Starting Batch Extracting: ['gbvrl1.seq.gz', 'gbvrl2.seq.gz', 'gbvrl3.seq.gz', 'gbvrl4.seq.gz', 'gbvrl5.seq.gz', 'gbvrl6.seq.gz', 'gbvrl7.seq.gz', 'gbvrl8.seq.gz', 'gbvrl9.seq.gz', 'gbvrl10.seq.gz', 'gbvrl11.seq.gz', 'gbvrl12.seq.gz', 'gbvrl13.seq.gz', 'gbvrl14.seq.gz', 'gbvrl15.seq.gz', 'gbvrl16.seq.gz', 'gbvrl17.seq.gz', 'gbvrl18.seq.gz', 'gbvrl19.seq.gz', 'gbvrl20.seq.gz', 'gbvrl21.seq.gz', 'gbvrl22.seq.gz', 'gbvrl23.seq.gz', 'gbvrl24.seq.gz', 'gbvrl25.seq.gz', 'gbvrl26.seq.gz', 'gbvrl27.seq.gz']
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl1.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl1.seq.gz: 65467	Orthomyxoviridae: 8642
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl2.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl2.seq.gz: 73067	Orthomyxoviridae: 11705
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl3.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl3.seq.gz: 70620	Orthomyxoviridae: 14452
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl4.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl4.seq.gz: 70183	Orthomyxoviridae: 17740
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl5.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl5.seq.gz: 60995	Orthomyxoviridae: 30178
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl6.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl6.seq.gz: 48122	Orthomyxoviridae: 78300
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl7.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl7.seq.gz: 46770	Orthomyxoviridae: 125070
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl8.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl8.seq.gz: 43907	Orthomyxoviridae: 168977
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl9.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl9.seq.gz: 59119	Orthomyxoviridae: 178399
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl10.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl10.seq.gz: 69306	Orthomyxoviridae: 183991
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl11.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl11.seq.gz: 63585	Orthomyxoviridae: 191373
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl12.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl12.seq.gz: 34935	Orthomyxoviridae: 196138
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl13.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl13.seq.gz: 62808	Orthomyxoviridae: 201144
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl14.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl14.seq.gz: 57322	Orthomyxoviridae: 205100
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl15.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl15.seq.gz: 63139	Orthomyxoviridae: 214186
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl16.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl16.seq.gz: 56396	Orthomyxoviridae: 223855
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl17.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl17.seq.gz: 47090	Orthomyxoviridae: 230468
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl18.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl18.seq.gz: 54858	Orthomyxoviridae: 237080
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl19.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl19.seq.gz: 58741	Orthomyxoviridae: 239271
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl20.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl20.seq.gz: 56195	Orthomyxoviridae: 244448
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl21.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl21.seq.gz: 56550	Orthomyxoviridae: 251092
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl22.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl22.seq.gz: 53460	Orthomyxoviridae: 256041
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl23.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl23.seq.gz: 48313	Orthomyxoviridae: 262616
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl24.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl24.seq.gz: 38742	Orthomyxoviridae: 265709
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl25.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl25.seq.gz: 49803	Orthomyxoviridae: 283053
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl26.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl26.seq.gz: 57311	Orthomyxoviridae: 291296
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl27.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl27.seq.gz: 3842	Orthomyxoviridae: 291340
+
+TOTAL Orthomyxoviridae: 291340
+Writing to GenBank file: Orthomyxoviridae.gbk
+291340 records done.
+
+[00:39]flyzhy@bogon:~/Desktop/CAHEC/zhy[0]
+$ 
+20131211
+
+20131211
+[08:56]flyzhy@bogon:~/Desktop/CAHEC/zhy[0]
+$ ~/workspace/GitHub/zhenghaiyong/BioInfo_CAHEC-VRL-ISM/scripts/31-gbk_to_biosql-zhy.py bioseqdbvrl Orthomyxoviridae Orthomyxoviridae-20131022.gbk 
+Parsing GenBank file sequence file: Orthomyxoviridae-20131022.gbk
+Orthomyxoviridae-20131022.gbk: 291340 records
+Writing to BioSQL database: bioseqdbvrl - Orthomyxoviridae
+/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/BioSQL/Loader.py:928: BiopythonWarning: order location operators are not fully supported
+% feature.location_operator, BiopythonWarning)
+/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/BioSQL/DBUtils.py:38: Warning: Data truncated for column 'isolation_region' at row 1
+cursor.execute(sql, args or ())
+/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/BioSQL/DBUtils.py:38: Warning: Data truncated for column 'host' at row 1
+cursor.execute(sql, args or ())
+
+[15:18]flyzhy@bogon:~/Desktop/CAHEC/zhy[0]
+$ 
+20131211
+
+20131212
+[07:37]flyzhy@FlyZhyGGMacBookPro:~/Desktop/CAHEC/zhy[0]
+$ ~/workspace/GitHub/zhenghaiyong/BioInfo_CAHEC-VRL-ISM/scripts/31-gbk_to_biosql-zhy.py bioseqdbvrl Orthomyxoviridae Orthomyxoviridae-20131022.gbk 
+Parsing GenBank file sequence file: Orthomyxoviridae-20131022.gbk
+Orthomyxoviridae-20131022.gbk: 291340 records
+Writing to BioSQL database: bioseqdbvrl - Orthomyxoviridae
+/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/BioSQL/Loader.py:928: BiopythonWarning: order location operators are not fully supported
+% feature.location_operator, BiopythonWarning)
+
+[13:08]flyzhy@FlyZhyGGMacBookPro:~/Desktop/CAHEC/zhy[0]
+$
+20131212

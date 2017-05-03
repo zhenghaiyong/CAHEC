@@ -1,0 +1,595 @@
+GBVRL0.SEQ          Genetic Sequence Data Bank
+                            June 15 2013
+
+                NCBI-GenBank Flat File Release 196.0
+
+                         Viral Sequences (Part 1)
+
+   65460 loci,    71666003 bases, from    65460 reported sequences
+
+
+LOCUS       AB000048                2007 bp    DNA     linear   VRL 14-JUL-2009
+DEFINITION  Feline panleukopenia virus gene for nonstructural protein 1,
+            complete cds, isolate: 483.
+ACCESSION   AB000048
+VERSION     AB000048.1  GI:1769753
+KEYWORDS    .
+SOURCE      Feline panleukopenia virus
+  ORGANISM  Feline panleukopenia virus
+            Viruses; ssDNA viruses; Parvoviridae; Parvovirinae; Parvovirus.
+REFERENCE   1
+  AUTHORS   Horiuchi,M.
+  TITLE     Evolutionary pattern of feline panleukopenia virus differs from
+            that of canine parvovirus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2007)
+  AUTHORS   Horiuchi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1996) Contact:Motohiro Horiuchi Obihiro
+            University of Agriculture and Veterinary Medicine, Veterinary
+            Public Health; Inada cho, Obihiro, Hokkaido 080, Japan
+FEATURES             Location/Qualifiers
+     source          1..2007
+                     /organism="Feline panleukopenia virus"
+                     /mol_type="genomic DNA"
+                     /isolate="483"
+                     /db_xref="taxon:10786"
+                     /lab_host="Felis domesticus"
+     CDS             1..2007
+                     /codon_start=1
+                     /product="nonstructural protein 1"
+                     /protein_id="BAA19009.1"
+                     /db_xref="GI:1769754"
+                     /translation="MSGNQYTEEVMEGVNWLKKHAEDEAFSFVFKCDNVQLNGKDVRW
+                     NNYTKPIQNEELTSLIRGAQTAMDQTEEEEMDWESEVDSLAKKQVQTFDALIKKCLFE
+                     VFVSKNIEPNECVWFIQHEWGKDQGWHCHVLLHSKNLQQATGKWLRRQMNMYWSRWLV
+                     TLCSINLTPTEKIKLREIAEDSEWVTILTYRHKQTKKDYVKMVHFGNMIAYYFLTKKK
+                     IVHMTKESGYFLSTDSGWKFNFMKYQDRHTVSTLYTEQMKPETVETTVTTAQETKRGR
+                     IQTKKEVSIKCTLRDLVSKRVTSPEDWMMLQPDSYIEMMAQPGGENLLKNTLEICTLT
+                     LARTKTAFELILEKADNTKLTNFDLANSRTCQIFRMHGWNWIKVCHAIACVLNRQGGK
+                     RNTVLFHGPASTGKSIIAQAIAQAVGNVGCYNAANVNFPFNDCTNKNLIWVEEAGNFG
+                     QQVNQFKAICSGQTIRIDQKGKGSKQIEPTPVIMTTNENITIVRIGCEERPEHTQPIR
+                     DRMLNIKLVCKLPGDFGLVDKEEWPLICAWLVKHGYQSTMANYTHHWGKVPEWDENWA
+                     EPKIQEGINSPGCKDLETQAASNPQSQDHVLTPLTPDVVDLALEPWSTPDTPIAETAN
+                     QQSNQLGVTHKDVQASPTWSEIEADLRAIFTSEQLEEDFRDDLD"
+ORIGIN      
+        1 atgtctggca accagtatac tgaggaagtt atggagggag taaattggtt aaagaaacat
+       61 gcagaagatg aagcattttc gtttgttttt aaatgtgaca acgtccaact aaatggaaag
+      121 gatgttcgct ggaacaacta taccaaacca attcaaaatg aagagctaac atctttaatt
+      181 agaggagcac aaacagcaat ggatcaaacc gaagaagaag aaatggactg ggaatcggaa
+      241 gttgatagtc tcgccaaaaa gcaagtacaa acttttgatg cattaattaa aaaatgtctt
+      301 tttgaagtct ttgtttctaa aaatatagaa ccaaatgaat gtgtttggtt tattcaacat
+      361 gaatggggaa aagatcaagg ctggcattgt catgttttac ttcatagtaa gaacttacaa
+      421 caagcaactg gtaaatggct acgcagacaa atgaatatgt attggagtag atggttggtg
+      481 actctttgtt cgataaattt aacaccaact gaaaagatta agctcagaga aattgcagaa
+      541 gatagtgaat gggtaactat attaacatac agacataagc aaacaaaaaa agactatgtt
+      601 aaaatggttc attttggaaa tatgatagca tattactttt taacaaagaa aaaaattgtc
+      661 cacatgacaa aagaaagtgg ctatttttta agtactgatt ctggttggaa atttaacttt
+      721 atgaagtatc aagacagaca tactgtcagc acactttaca ctgaacaaat gaaaccagaa
+      781 accgttgaaa ccacagtgac gacagcacag gaaacaaagc gcgggagaat tcaaactaaa
+      841 aaggaagtgt caatcaaatg tactttgcgg gacttggtta gtaaaagagt aacatcacct
+      901 gaagactgga tgatgttaca accagatagt tatattgaaa tgatggcaca accaggaggt
+      961 gaaaatctct taaaaaatac acttgaaatt tgtactttga ctttagcaag aacaaaaaca
+     1021 gcatttgaat taatacttga aaaagcagat aataccaaac taactaactt tgatcttgca
+     1081 aattctagaa catgtcaaat ttttagaatg cacggatgga attggattaa agtttgtcac
+     1141 gctatagcat gtgttttaaa tagacaaggt ggtaaaagaa atacagttct ttttcatgga
+     1201 ccagcaagta caggaaaatc tattattgct caagccatag cacaagctgt gggtaatgtt
+     1261 ggttgctata atgcagcaaa tgtaaatttt ccatttaatg actgtaccaa taaaaattta
+     1321 atttgggttg aagaagctgg taactttggt caacaagtta atcaatttaa agcaatttgt
+     1381 tctggacaaa caattagaat tgatcaaaaa ggtaaaggaa gtaagcaaat tgaaccaact
+     1441 ccagtaatta tgacaactaa tgaaaatata acaattgtaa gaattggatg tgaagaaaga
+     1501 cctgaacata cacaaccaat aagagacaga atgttgaaca ttaaattagt atgtaagctt
+     1561 ccaggagact ttggtttggt tgataaagaa gaatggcctt taatatgtgc atggttagtt
+     1621 aaacatggtt atcaatcaac catggctaac tacacacatc attggggaaa agtaccagag
+     1681 tgggatgaaa actgggcgga gcctaaaata caagaaggta taaattcacc aggttgcaaa
+     1741 gacttagaga cacaagcggc aagcaatcct cagagtcaag accacgttct aactcctctg
+     1801 actccggacg tagtggacct tgcactggaa ccgtggagta ctccagatac gcctattgca
+     1861 gaaactgcaa atcaacaatc aaaccaactt ggcgttactc acaaagacgt gcaagcgagt
+     1921 ccgacatggt ccgaaataga ggcagacctg agagccattt ttacttctga acaattggaa
+     1981 gaagattttc gagacgactt ggattaa
+//
+LOCUS       AB000049                2007 bp    DNA     linear   VRL 14-JUL-2009
+DEFINITION  Feline panleukopenia virus gene for nonstructural protein 1,
+            complete cds, isolate: 94-1.
+ACCESSION   AB000049
+VERSION     AB000049.1  GI:1769755
+KEYWORDS    .
+SOURCE      Feline panleukopenia virus
+  ORGANISM  Feline panleukopenia virus
+            Viruses; ssDNA viruses; Parvoviridae; Parvovirinae; Parvovirus.
+REFERENCE   1
+  AUTHORS   Horiuchi,M.
+  TITLE     Evolutionary pattern of feline panleukopenia virus differs that of
+            canine parvovirus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2007)
+  AUTHORS   Horiuchi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1996) Contact:Motohiro Horiuchi Obihiro
+            University of Agriculture and Veterinary Medicine, Veterinary
+            Public Health; Inada cho, Obihiro, Hokkaido 080, Japan
+FEATURES             Location/Qualifiers
+     source          1..2007
+                     /organism="Feline panleukopenia virus"
+                     /mol_type="genomic DNA"
+                     /isolate="94-1"
+                     /db_xref="taxon:10786"
+                     /lab_host="Felis domesticus"
+     CDS             1..2007
+                     /codon_start=1
+                     /product="nonstructural protein 1"
+                     /protein_id="BAA19010.1"
+                     /db_xref="GI:1769756"
+                     /translation="MSGNQYTEEVMEGVNWLKKHAEDEAFSFVFKCDNVQLNGKDVRW
+                     NNYTKPIQNEELTSLIRGAQTAMDQTEEEEMDWESEVDSLAKKQVQTFDALIKKCLFE
+                     VFVSKNIEPNECVWFIQHEWGKDQGWHCHVLLHSKNLQQATGKWLRRQMNMYWSRWLV
+                     TLCSINLTPTEKIKLREIAEDSEWVTILTYRHKQTKKDYVKMVHFGNMIAYYFLTKKK
+                     IVHMTKESGYFLSTDSGWKFNFMKYQDRHTVSTLYTEQMKPETVETTVTTAQETKRGR
+                     IQTKKEVSIKCTLRDLVSKRVTSPEDWMMLQPDSYIEMMAQPGGENLLKNTLEICTLT
+                     LARTKTAFELILEKADNTKLTNFDLANSRTCQIFRMHGWNWIKVCHAIACVLNRQGGK
+                     RNTVLFHGPASTGKSIIAQAIAQAVGNVGCYNAANVNFPFNDCTNKNLIWVEEAGNFG
+                     QQVNQFKAICSGQTIRIDQKGKGSKQIEPTPVIMTTNENITIVRIGCEERPEHTQPIR
+                     DRMLNIKLVCKLPGDFGLVDKEEWPLICAWLVKHGYQSTMANYTHHWGKVPEWDENWA
+                     EPKIQEGINSPGCKDLETQAASNPQSQDHVLTPLTPDVVDLALEPWSTPDTPIAETAN
+                     QQSNQLGVTHKDVQASPTWSEIEADLRAIFTSEQLEEDFRDDLD"
+ORIGIN      
+        1 atgtctggca accagtatac tgaggaagtt atggagggag taaattggtt aaagaaacat
+       61 gcagaagatg aagcattttc gtttgttttt aaatgtgaca acgtccaact aaatggaaag
+      121 gatgttcgct ggaacaacta taccaaacca attcaaaatg aagagctaac atctttaatt
+      181 agaggagcac aaacagcaat ggatcaaacc gaagaagaag aaatggactg ggaatcggaa
+      241 gttgatagtc tcgccaaaaa gcaagtacaa acttttgatg cattaattaa aaaatgtctt
+      301 tttgaagtct ttgtttctaa aaatatagaa ccaaatgaat gtgtttggtt tattcaacat
+      361 gaatggggaa aagatcaagg ctggcattgt catgttttac ttcatagtaa gaacttacaa
+      421 caagcaactg gtaaatggct acgcagacaa atgaatatgt attggagtag atggttggtg
+      481 actctttgtt cgataaattt aacaccaact gaaaagatta agctcagaga aattgcagaa
+      541 gatagtgaat gggtaactat attaacatac agacataagc aaacaaaaaa agactatgtt
+      601 aaaatggttc attttggaaa tatgatagca tattactttt taacaaagaa aaaaattgtc
+      661 cacatgacaa aagaaagtgg ctatttttta agtactgatt ctggttggaa atttaacttt
+      721 atgaagtatc aagacagaca tactgtcagc acactttaca ctgaacaaat gaaaccagaa
+      781 accgttgaaa ccacagtgac gacagcacag gaaacaaagc gcgggagaat tcaaactaaa
+      841 aaggaagtgt caatcaaatg tactttgcgg gacttggtta gtaaaagagt aacatcacct
+      901 gaagactgga tgatgttaca accagatagt tatattgaaa tgatggcaca accaggaggt
+      961 gaaaatcttt taaaaaatac acttgaaatt tgtactttga ctttagcaag aacaaaaaca
+     1021 gcatttgaat taatacttga aaaagcagat aatactaaac taactaactt tgatcttgca
+     1081 aattctagaa catgtcaaat ttttagaatg cacggatgga attggattaa agtttgtcac
+     1141 gctatagcat gtgttttaaa tagacaaggt ggtaaaagaa atacagttct ttttcatgga
+     1201 ccagcaagta caggaaaatc tattattgct caagccatag cacaagctgt gggtaatgtt
+     1261 ggttgctata atgcagcaaa tgtaaatttt ccatttaatg actgtaccaa taaaaattta
+     1321 atttgggttg aagaagctgg taactttggt caacaagtta atcaatttaa agcaatttgt
+     1381 tctggacaaa caattagaat tgatcaaaaa ggtaaaggaa gtaagcaaat tgaaccaact
+     1441 ccagtaatta tgacaactaa tgaaaatata acaattgtaa gaattggatg tgaagaaaga
+     1501 cctgaacata cacaaccaat aagagacaga atgttgaaca ttaagttagt atgtaagctt
+     1561 ccaggagact ttggtttggt tgataaagaa gaatggcctt taatatgtgc atggttagtt
+     1621 aaacatggtt atcaatcaac catggctaac tacacacatc attggggaaa agtaccagag
+     1681 tgggatgaaa actgggcgga gcctaaaata caagaaggta taaattcacc aggttgcaaa
+     1741 gacttagaga cacaagcggc aagcaatcct cagagtcaag accacgttct aactcctctg
+     1801 actccggacg tagtggacct tgcactggaa ccgtggagta ctccagatac gcctattgca
+     1861 gaaactgcaa atcaacaatc aaaccaactt ggcgttactc acaaagacgt gcaagcgagt
+     1921 ccgacatggt ccgaaataga ggcagaccta agagccattt ttacttctga acaattggaa
+     1981 gaagattttc gagacgactt ggattaa
+//
+LOCUS       AB000050                1755 bp    DNA     linear   VRL 14-JUL-2009
+DEFINITION  Feline panleukopenia virus gene for capsid protein 2, complete cds,
+            isolate: 94-1.
+ACCESSION   AB000050
+VERSION     AB000050.1  GI:1769757
+KEYWORDS    .
+SOURCE      Feline panleukopenia virus
+  ORGANISM  Feline panleukopenia virus
+            Viruses; ssDNA viruses; Parvoviridae; Parvovirinae; Parvovirus.
+REFERENCE   1
+  AUTHORS   Horiuchi,M.
+  TITLE     Evolutionary pattern of feline panleukopenia virus differs from
+            that of canine parvovirus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1755)
+  AUTHORS   Horiuchi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1996) Contact:Motohiro Horiuchi Obihiro
+            University of Agriculture and Veterinary Medicine, Veterinary
+            Public Health; Inada cho, Obihiro, Hokkaido 080, Japan
+FEATURES             Location/Qualifiers
+     source          1..1755
+                     /organism="Feline panleukopenia virus"
+                     /mol_type="genomic DNA"
+                     /isolate="94-1"
+                     /db_xref="taxon:10786"
+                     /lab_host="Felis domesticus"
+     CDS             1..1755
+                     /codon_start=1
+                     /product="capsid protein 2"
+                     /protein_id="BAA19011.1"
+                     /db_xref="GI:1769758"
+                     /translation="MSDGAVQPDGGQPAVRNERATGSGNGSGGGGGGGSGGVGISTGT
+                     FNNQTEFKFLENGWVEITANSSRLVHLNMPESENYKRVVVNNMDKTAVKGNMALDDTH
+                     VQIVTPWSLVDANAWGVWFNPGDWQLIVNTMSELHLVSFEQEIFNVVLKTVSESATQP
+                     PTKVYNNDLTASLMVALDSNNTMPFTPAAMRSETLGFYPWKPTIPTPWRYYFQWDRTL
+                     IPSHTGTSGTPTNVYHGTDPDDVQFYTIENSVPVHLLRTGDEFATGTFFFDCKPCRLT
+                     HTWQTNRALGLPPFLNSLPQSEGATNFGDIGVQQDKRRGVTQMGNTDYITEATIMRPA
+                     EVGYSAPYYSFEASTQGPFKTPIAAGRGGAQTDENQAADGDPRYAFGRQHGQKTTTTG
+                     ETPERFTYIAHQDTGRYPEGDWIQNINFNLPVTNDNVLLPTDPIGGKTGINYTNIFNT
+                     YGPLTALNNVPPVYPNGQIWDKEFDTDLKPRLHVNAPFVCQNNCPGQLFVKVAPNLTN
+                     EYDPDASANMSRIVTYSDFWWKGKLVFKAKLRASHTWNPIQQMSINVDNQFNYVPNNI
+                     GAMKIVYEKSQLAPRKLY"
+ORIGIN      
+        1 atgagtgatg gagcagttca accagacggt ggtcaacctg ctgtcagaaa tgaaagagct
+       61 acaggatctg ggaacgggtc tggaggcggg ggtggtggtg gttctggggg tgtggggatt
+      121 tctacgggta ctttcaataa tcagacggaa tttaaatttt tggaaaacgg gtgggtggaa
+      181 atcacagcaa actcaagcag acttgtacat ttaaatatgc cagaaagtga aaattataaa
+      241 agagtagttg taaataatat ggataaaact gcagttaaag gaaatatggc tttagatgat
+      301 actcatgtac aaattgtaac accttggtca ttggttgatg caaatgcttg gggagtttgg
+      361 tttaatccag gagattggca actaattgtt aatactatga gtgagttgca tttagttagt
+      421 tttgaacaag aaatttttaa tgttgtttta aagactgttt cagaatctgc tactcagcca
+      481 ccaactaaag tttataataa tgatttaact gcatcattga tggttgcatt agatagtaat
+      541 aatactatgc catttactcc agcagctatg agatctgaga cattgggttt ttatccatgg
+      601 aaaccaacca taccaactcc atggagatat tattttcaat gggatagaac attaatacca
+      661 tctcatactg gaactagtgg cacaccaaca aatgtatatc atggtacaga tccagatgat
+      721 gttcaatttt atactattga aaattctgtg ccagtacact tactaagaac aggtgatgaa
+      781 tttgctacag gaacattttt ttttgattgt aaaccatgta gactaacaca tacatggcaa
+      841 acaaatagag cattgggctt accaccattt ttaaattctt tgcctcaatc tgaaggagct
+      901 actaactttg gtgatatagg agttcaacaa gataaaagac gtggtgtaac tcaaatggga
+      961 aatacagact atattactga agctactatt atgagaccag ctgaggttgg ttatagtgca
+     1021 ccatactatt cttttgaagc gtctacacaa gggccattta aaacacctat tgcagcagga
+     1081 cgggggggag cgcaaacaga tgaaaatcaa gcagcagatg gtgatccaag atatgcattt
+     1141 ggtagacaac atggtcaaaa aactactaca acaggagaaa cacctgagag atttacatat
+     1201 atagcacatc aagatacagg aagatatcca gaaggagatt ggattcaaaa tattaacttt
+     1261 aaccttcctg taacaaatga taatgtattg ctaccaacag atccaattgg aggtaaaaca
+     1321 ggaattaact atactaatat atttaatact tatggtcctt taactgcatt aaataatgta
+     1381 ccaccagttt atccaaatgg tcaaatttgg gataaagaat ttgatactga cttaaaacca
+     1441 agacttcatg taaatgcacc atttgtttgt cagaataatt gtcctggtca attatttgta
+     1501 aaagttgcgc ctaatttaac gaatgaatat gatcctgatg catctgctaa tatgtcaaga
+     1561 attgtaactt attcagattt ttggtggaaa ggtaaattag tatttaaagc taaactaaga
+     1621 gcatctcata cttggaatcc aattcaacaa atgagtatta atgtagataa ccaatttaac
+     1681 tatgtaccaa ataatattgg agctatgaaa attgtatatg aaaaatctca actagcacct
+     1741 agaaaattat attaa
+//
+LOCUS       AB003359                 578 bp    mRNA    linear   VRL 25-SEP-1997
+DEFINITION  Yellowtail ascites virus mRNA, partial cds.
+ACCESSION   AB003359
+VERSION     AB003359.1  GI:2073114
+KEYWORDS    .
+SOURCE      Yellowtail ascites virus
+  ORGANISM  Yellowtail ascites virus
+            Viruses; dsRNA viruses; Birnaviridae; Aquabirnavirus.
+REFERENCE   1
+  AUTHORS   Sato,H.
+  TITLE     cDNA cloning of yellowtail ascites virus segment A and expression
+            of epitope region on VP2
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 578)
+  AUTHORS   Mori,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-APR-1997) Hajime Mori, Kyoto Institute of Technology,
+            Department of Applied Biology; Matsugasaki, Sakyo-ku, Kyoto 606,
+            Japan (E-mail:hmori@ipc.kit.ac.jp, Tel:075-724-7776,
+            Fax:075-724-7760)
+FEATURES             Location/Qualifiers
+     source          1..578
+                     /organism="Yellowtail ascites virus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:59816"
+     CDS             <2..>578
+                     /note="unnamed protein product"
+                     /codon_start=1
+                     /protein_id="BAA19858.1"
+                     /db_xref="GI:2073115"
+                     /translation="NNQPVTKGVTVLNLPTGFDKPYVRLEDETPQGPQSMNGARMRCT
+                     AAIAPRRYEIDLPSARLPTVPATGTLTTIYEGNADIVNSTTVTGDISFRLDQEPPNDT
+                     KYDFQLDFLGLDNNVPVVSITSSTLATTDNYRGVSVKFTQSIPTETITKPITRVKLSY
+                     KINQQTAIGNAATLGPLGPSSVSFSSGNGNVP"
+ORIGIN      
+        1 gaacaaccag ccagtcacca aaggagtgac agtcctaaac ctaccaacag ggttcgacaa
+       61 gccatacgtc cgcctggagg acgagacccc acaagggccc cagtcaatga acggcgcccg
+      121 gatgaggtgc acagctgcaa ttgcaccacg aaggtacgaa atcgacctcc catccgcacg
+      181 cctccccaca gtaccagcga ctgggaccct cacaacaatc tatgaaggga acgccgacat
+      241 tgtgaactca accacagtga ccggcgacat cagcttcaga ctggatcaag aacccccgaa
+      301 cgacacgaag tacgacttcc agctcgactt cctcggctta gacaacaacg tccccgtcgt
+      361 gtcaataacc agctctacgc tggccacaac cgacaactac aggggggtct cagtcaaatt
+      421 cacacagtca atcccaacag agacaatcac aaaacccatc accagggtca agctgtccta
+      481 caaaatcaac cagcagacag ccatcggcaa tgcagcaacg cttggacccc tggggccctc
+      541 atccgtctca ttctcatcag gaaacggcaa cgtacctg
+//
+LOCUS       AB003360                 886 bp    mRNA    linear   VRL 19-JUN-1998
+DEFINITION  Cytoplasmic polyhedrosis virus mRNA for polyhedrin, complete cds.
+ACCESSION   AB003360
+VERSION     AB003360.1  GI:2073116
+KEYWORDS    polyhedrin.
+SOURCE      Bombyx mori cypovirus 1
+  ORGANISM  Bombyx mori cypovirus 1
+            Viruses; dsRNA viruses; Reoviridae; Spinareovirinae; Cypovirus.
+REFERENCE   1
+  AUTHORS   Ikeda,K., Nakazawa,H., Alain,R., Belloncik,S. and Mori,H.
+  TITLE     Characterizations of natural and induced polyhedrin gene mutants of
+            Bombyx mori cytoplasmic polyhedrosis viruses
+  JOURNAL   Arch. Virol. 143 (2), 241-248 (1998)
+   PUBMED   9541610
+REFERENCE   2  (bases 1 to 886)
+  AUTHORS   Mori,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-APR-1997) Hajime Mori, Kyoto Institute of Technology,
+            Department of Applied Biology; Matsugasaki, Sakyo-ku, Kyoto
+            606-8585, Japan (E-mail:hmori@ipc.kit.ac.jp, Tel:81-75-724-7776,
+            Fax:81-75-724-7760)
+FEATURES             Location/Qualifiers
+     source          1..886
+                     /organism="Bombyx mori cypovirus 1"
+                     /mol_type="mRNA"
+                     /strain="B2"
+                     /db_xref="taxon:110829"
+                     /note="Bombyx mori"
+     CDS             15..761
+                     /codon_start=1
+                     /product="polyhedrin"
+                     /protein_id="BAA19859.1"
+                     /db_xref="GI:2073117"
+                     /translation="MADVAGTSNRDFRGREQRLFNIEQYNYNSSLNGEVSVWVYAYYS
+                     DGSVLVINKNSQYKVGISETFKALKEYREGQHNDSYDEYEVNQSIYYPNGGDARKFHS
+                     NAKPRAIQIIFSPSVNVRTIKMAKGNAVSVPDEYLQRSHPWEATGIKYRKIKRDGEIV
+                     GYSHYFELPHEYNSISLAVSGVHKNPSSYNVGSAHNVMDVFQSCDLALRFCNRYWAEL
+                     ELVNHYISPNAYPYLDINNHSYGVALSNRQ"
+ORIGIN      
+        1 atacgtaaag gatcatggca gacgtagcag gaacaagtaa ccgagacttt cgcggacgcg
+       61 aacaaagact attcaatatc gaacaataca actataacag cagcttgaac ggagaagtga
+      121 gcgtgtgggt atacgcatat tactcagacg ggtctgtact cgtaatcaac aagaactcgc
+      181 aatacaaggt tggcatttca gagacattca aggcacttaa ggaatatcgc gagggacaac
+      241 acaacgactc ttacgatgag tatgaagtga atcagagcat ctactatcct aacggcggtg
+      301 acgctcgcaa attccactca aatgctaaac cacgcgcgat ccagatcatc ttcagtccta
+      361 gtgtgaatgt gcgtactatc aagatggcca aaggtaacgc ggtatccgtg cccgatgagt
+      421 acctacagcg atctcaccca tgggaagcga ccggaatcaa gtaccgcaag attaagagag
+      481 acggggaaat cgttggttac agccattact tcgaactacc ccacgaatac aactccatct
+      541 ccctagcggt aagtggtgta cataagaacc catcatcata caatgtcgga tcagcacata
+      601 acgtaatgga cgtcttccaa tcatgcgact tggctctcag attctgcaac cgctactggg
+      661 ccgaactcga attggtgaac cactacattt cgccgaacgc ctacccatac ctcgatatca
+      721 acaatcatag ctatggagta gctctgagta accgtcagtg attgctcgtg taacttggat
+      781 accggaacac atgacgctgt gatgaattac gcgcccggtc ttcggatagg gtgacgctct
+      841 acctgcgcca acaggatatc gaaaaattat accggatccc gatgct
+//
+LOCUS       AB003361                 886 bp    mRNA    linear   VRL 19-JUN-1998
+DEFINITION  Cytoplasmic polyhedrosis virus mRNA for polyhedrin, complete cds.
+ACCESSION   AB003361
+VERSION     AB003361.1  GI:2073118
+KEYWORDS    polyhedrin.
+SOURCE      Bombyx mori cypovirus 1
+  ORGANISM  Bombyx mori cypovirus 1
+            Viruses; dsRNA viruses; Reoviridae; Spinareovirinae; Cypovirus.
+REFERENCE   1
+  AUTHORS   Ikeda,K., Nakazawa,H., Alain,R., Belloncik,S. and Mori,H.
+  TITLE     Characterizations of natural and induced polyhedrin gene mutants of
+            Bombyx mori cytoplasmic polyhedrosis viruses
+  JOURNAL   Arch. Virol. 143 (2), 241-248 (1998)
+   PUBMED   9541610
+REFERENCE   2  (bases 1 to 886)
+  AUTHORS   Mori,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-APR-1997) Hajime Mori, Kyoto Institute of Technology,
+            Department of Applied Biology; Matsugasaki, Sakyo-ku, Kyoto
+            606-8585, Japan (E-mail:hmori@ipc.kit.ac.jp, Tel:81-75-724-7776,
+            Fax:81-75-724-7760)
+FEATURES             Location/Qualifiers
+     source          1..886
+                     /organism="Bombyx mori cypovirus 1"
+                     /mol_type="mRNA"
+                     /strain="P"
+                     /db_xref="taxon:110829"
+                     /note="Bombyx mori"
+     CDS             15..761
+                     /codon_start=1
+                     /product="polyhedrin"
+                     /protein_id="BAA19860.1"
+                     /db_xref="GI:2073119"
+                     /translation="MADVAGTSNRDFRGREQRLFNSEQYNYNNSLNGEVSVWVYAYYS
+                     DGSVLVINKNSQYKVGISETFKALKEYRKGQHNDSYDEYEVNQSIYYPNGGDARKFHS
+                     NAKPRAIQIIFSPSVNVRTIKMAKGNAVSVPDEYLQRSHPWEATGIKYRKIKRDGEIV
+                     GYSHYFELPHEYNSISLAVSGVHKNPSSYNVGSAHNVMDVFQSCDLALRFCNRYWAEL
+                     ELVNHYISPNAYPYLDINNHSYGVALSNRQ"
+ORIGIN      
+        1 atacgtaaag gatcatggca gacgtagcag gaacaagtaa ccgagacttt cgcggacgcg
+       61 aacaaagact attcaatagc gagcaataca actataacaa cagcttgaac ggagaagtga
+      121 gcgtgtgggt atacgcatac tactcagacg ggtctgtact cgtaatcaac aagaactcgc
+      181 aatacaaggt tggcatttca gagacattca aggcacttaa ggaatatcgc aagggacaac
+      241 acaacgactc ttacgatgag tatgaagtga atcagagcat ctactatcct aacggcggtg
+      301 acgctcgcaa attccactcg aatgctaaac cacgcgcgat ccagatcatc ttcagcccta
+      361 gtgtgaatgt gcgtactatc aagatggcta aaggtaacgc ggtatccgtg cccgatgagt
+      421 acttacagcg atctcaccca tgggaagcga ccggaatcaa gtaccgcaag attaagagag
+      481 acggggaaat cgttggttac agccattact tcgaactacc ccatgaatac aactccatct
+      541 ccctagcggt aagtggtgta cataagaacc catcatcata caatgtcgga tcagcacata
+      601 acgtaatgga cgtcttccaa tcatgcgact tggctctcag attctgcaac cgctactggg
+      661 ccgaactcga attggtgaac cactacattt cgccgaacgc ctacccatac ctcgatatca
+      721 acaatcatag ctatggagta gctctgagta accgtcagtg attgctcgtg taacttggat
+      781 accggaacac atgacgctgt gatgaattac gcgcccggtc ttcggatagg gtgacgctct
+      841 acctgcgcca acaggatatc gaaaaattat accggatccc gatgct
+//
+LOCUS       AB006783                2976 bp    RNA     linear   VRL 06-DEC-2005
+DEFINITION  Yellowtail ascites virus - Y-6 gene for polyprotein, complete cds.
+ACCESSION   AB006783 AB001329
+VERSION     AB006783.1  GI:2351078
+KEYWORDS    .
+SOURCE      Yellowtail ascites virus - Y-6
+  ORGANISM  Yellowtail ascites virus - Y-6
+            Viruses; dsRNA viruses; Birnaviridae; Aquabirnavirus.
+REFERENCE   1
+  AUTHORS   Suzuki,S., Kimura,M. and Kusuda,R.
+  TITLE     The complete nucleotide sequence of the polyprotein and VP5 gene of
+            a marine birnavirus
+  JOURNAL   Fish. Sci. 64, 428-433 (1998)
+REFERENCE   2  (bases 1 to 2976)
+  AUTHORS   Suzuki,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-1997) Satoru Suzuki, Kochi University, Faculty of
+            Agriculture; Monobe, Nankoku, Kochi 783, Japan
+            (E-mail:ssuzuki@cc.kochi-u.ac.jp, Tel:81-888-64-5151,
+            Fax:81-888-64-5197)
+COMMENT     On Aug 2, 1998 this sequence version replaced gi:1856969.
+FEATURES             Location/Qualifiers
+     source          1..2976
+                     /organism="Yellowtail ascites virus - Y-6"
+                     /mol_type="genomic RNA"
+                     /strain="Y-6"
+                     /db_xref="taxon:360000"
+                     /segment="A"
+     CDS             57..2975
+                     /codon_start=1
+                     /product="polyprotein"
+                     /protein_id="BAA22055.1"
+                     /db_xref="GI:2351079"
+                     /translation="MNTTKATATYLRSIMLPENGPASIPDDITERHILKQETSSYNLE
+                     VSDSGSGLLVCFPGAPGSRVGAHYKWNQNQTELEFDQWLETSQDLKKAFNYGRLISRK
+                     YDVQSSTLPAGLYALNGTLNAATFEGSLSEVESFSYNSLMSLTTNPQDKVNNQLVTKG
+                     VTVLNLPTGFDKPYVRLEDETPQGPQSMNGARMRCTAAIAPRRYEIDLPSARLPTVPA
+                     TGTLTTIYEGNADIVNSTTVTGDISFRLEQDPPNDTKYDFQLDFLGLDNNVPVVSITS
+                     STLATTDNYRGVSVKFTQSIPTETITKPITRVKLSYKINQQTAIGNAATLGPLGPSSV
+                     SFSSGNGNVPGVLRPITLVAYEKMTPQSILTVAGVSNYELIPNPELLKNMVTKYGKYD
+                     PEGLNYAKMILSHREELDIRTVWRTEEYKERTRAFNEITDFSSDLPTSKAWGWRDIVR
+                     GIRKVAAPVLSTLFPMAAPLIGAADQFIGDLTKTNAAGGRYLTHAAGGRYTDVMDSWA
+                     SGTDTGRFSRNLKDRLESNNYEEMELPPPTKGVIIPVVHTVESAPGEAFGSLLVIIPG
+                     AYPELLDPNQQVLSHFKNDTGCVWGIGEDIPFEGDDICYTALPLKEIKKNGNIVVEKV
+                     FAGPAMGPSCQLGLSLLVNDIDKGVPRMVFTGEIANDEETIVPICGVDIKAIAAHEHG
+                     LPLVGCQPGVDEVVANTSLASHLIQSGALPVQKAQGASRRIKYLGELMRTTASGMDEE
+                     LQKLLHATMARAKEVKDAEVFKLLKLMSWTRKNGLTDHMYEWSKEDPEAVKFGKLIST
+                     PPKHQEKPKGPDQHTAQEAKAVRISLDAVKAGADFASPDWIAENGYRGPSPGQFKYYV
+                     ITGRVPDPRDEYEDYVRKPITRPTDMDKIRRLANSVYGLPHQEPAPEEFYQAVVEIFA
+                     ENGGRGPDQDQMQDLRDLARQMKRRPRPAETRRQNRAPPRAAPSGSSRFTPSGDNGEV
+                     "
+ORIGIN      
+        1 cgtcgatggc gaaagccctt tctaacaaac aacctacaat tccatctaca tgaatcatga
+       61 acacaacaaa ggcaaccgca acttacttga gatccattat gcttcccgag aatggtccag
+      121 caagcattcc ggacgacata acagagagac acatactaaa acaagagacc tcgtcataca
+      181 acttagaggt ctcagactcc ggaagtgggc ttcttgtctg cttccctgga gctcctggat
+      241 ccagagtcgg tgcccactac aagtggaatc agaaccagac ggaactggaa ttcgaccagt
+      301 ggctggaaac atcacaggac ctgaagaagg cattcaacta cgggaggctg atctcacgga
+      361 aatacgacgt ccagagctca accctacccg ctggtctgta tgccctgaat gggaccctga
+      421 acgccgcgac cttcgaagga agtctgtctg aagtggagag cttctcctac aacagtctga
+      481 tgtccctcac cacgaacccc caggacaaag tgaacaacca gctagtcacc aaaggagtga
+      541 cagtcctaaa cctaccaaca gggttcgaca agccatacgt ccgcctggag gacgagaccc
+      601 cacaagggcc ccagtcaatg aacggcgccc ggatgaggtg cacagctgca attgcaccac
+      661 gaaggtacga aatcgacctc ccatccgcac gcctccccac agtaccagcg actgggaccc
+      721 tcacaacaat ctatgaaggg aacgccgaca ttgtgaactc aaccacagtg accggcgaca
+      781 tcagcttcag actggaacaa gaccccccga atgacacgaa gtacgacttc cagctcgact
+      841 tcctcggctt agacaacaac gtccccgtcg tgtcaataac cagctctacg ctggccacaa
+      901 ccgacaacta caggggggtc tcagtcaaat tcacacagtc aatcccaaca gagacaatca
+      961 caaaacccat caccagggtc aagctgtcct acaaaatcaa ccagcagaca gctatcggca
+     1021 atgcagcaac gcttggaccc ctggggccct catccgtctc attctcatca ggaaacggca
+     1081 acgtacctgg agtgctcagg ccaatcaccc tggtggccta cgagaagatg accccccagt
+     1141 cgatcctgac ggtagctgga gtgtcaaact acgagctgat cccaaacccc gaactcctga
+     1201 agaacatggt cacgaaatat ggcaagtatg accctgaagg tctcaactac gccaagatga
+     1261 tcctgtccca ccgagaggag ctagacatca gaacagtctg gagaaccgag gagtacaagg
+     1321 agagaacaag agccttcaat gagatcacag acttctcaag tgacctccca acctcaaaag
+     1381 cctgggggtg gagagacatt gtgagaggca tccggaaggt ggcagcacca gtgctgtcaa
+     1441 cactcttccc catggcggca ccactcatcg gagccgccga ccaattcatc ggagacctga
+     1501 ccaagaccaa cgcagccgga ggccgctacc taacacatgc agcaggagga cgctacactg
+     1561 acgtaatgga ctcctgggcc agcggcacag acactgggag gttctcacgc aacctcaaag
+     1621 accggctgga gtcaaacaac tatgaggaga tggaacttcc tccaccaacg aaaggagtca
+     1681 tcatacctgt agtgcacaca gtggagagtg cacctggtga ggcctttggg tcccttctgg
+     1741 taatcatccc aggagcatac ccagaacttc ttgacccaaa ccagcaggtc ctgtcccact
+     1801 tcaaaaacga caccggatgt gtctggggca taggagaaga cattccattc gaaggtgacg
+     1861 acatatgcta caccgccctg cctctcaaag agatcaagaa gaacggaaac atcgtggtgg
+     1921 agaaagtctt cgctggccct gcgatgggac catcctgcca gctgggcctg tcgctccttg
+     1981 tcaacgacat cgacaagggc gtacccagaa tggtgttcac tggagagatc gcaaacgacg
+     2041 aggaaaccat cgtccccatc tgcggtgtag acatcaaagc catcgccgcc catgaacatg
+     2101 ggctgccact cgttggctgt caaccaggag tcgatgaggt ggtggcaaac acatctctcg
+     2161 cctcacacct gatccagagc ggagcactac cagtgcagaa agcacaaggc gccagcagga
+     2221 ggatcaagta cctgggggaa ctaatgagaa caactgcatc agggatggat gaagagctgc
+     2281 agaagctgct gcacgccacc atggccagag caaaagaggt gaaagacgcc gaagtcttca
+     2341 aacttctcaa gctgatgtcc tggaccagga agaacgggct caccgaccac atgtatgaat
+     2401 ggtcaaaaga ggaccctgaa gcagtcaaat ttggcaaact catcagcaca ccaccaaaac
+     2461 accaagagaa gccaaaagga cccgaccagc acacggcaca ggaggcaaaa gccgtccgga
+     2521 tctcactaga tgcagtgaaa gcaggagcag actttgcctc cccagactgg atcgcggaga
+     2581 atggataccg cggtccatca ccaggccagt tcaagtacta cgtcatcaca gggcgcgtcc
+     2641 cagacccacg agacgagtac gaggactacg tgcgaaaacc aataacaaga cccacggaca
+     2701 tggacaaaat cagacgccta gccaacagtg tctacggact tccccaccaa gaacctgcac
+     2761 cagaggaatt ctaccaagcg gtagtcgaga tcttcgcaga aaatggagga cgaggaccag
+     2821 atcaagacca gatgcaagac ctgagggact tggcccggca gatgaaacga cgaccccgac
+     2881 cagctgagac acgcaggcaa aaccgagctc caccacgggc ggcacccagt ggaagctcac
+     2941 gttttacccc ctccggagat aacggagaag tgtaac
+//
+LOCUS       AB006813                2200 bp    RNA     linear   VRL 08-MAR-2003
+DEFINITION  Cucumber mosaic virus genomic RNA for 3a protein, coat protein,
+            complete cds.
+ACCESSION   AB006813
+VERSION     AB006813.1  GI:2385457
+KEYWORDS    .
+SOURCE      Cucumber mosaic virus (cucumber mosaic cucumovirus)
+  ORGANISM  Cucumber mosaic virus
+            Viruses; ssRNA positive-strand viruses, no DNA stage; Bromoviridae;
+            Cucumovirus.
+REFERENCE   1
+  AUTHORS   Takanami,Y., Shigemi,T., Kikuhara,K., Uchiba,T. and Takeshita,M.
+  TITLE     Specific detection of subgroup I and II of cucumber mosaic virus
+            with Northern hybridization using digoxigenin-labeled oligo-DNA
+            probes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2200)
+  AUTHORS   Takanami,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-AUG-1997) Yoichi Takanami, Kyushu University,
+            Laboratory of Plant Pathology, Faculty of Agriculture; Higashi-ku,
+            Hakozaki, 6-10-1, Fukuoka 812-81, Japan
+            (E-mail:takanami@agr.kyushu-u.ac.jp, Tel:+81-92-642-2835,
+            Fax:+81-92-642-2835)
+FEATURES             Location/Qualifiers
+     source          1..2200
+                     /organism="Cucumber mosaic virus"
+                     /mol_type="genomic RNA"
+                     /strain="m2"
+                     /db_xref="taxon:12305"
+                     /segment="3"
+     CDS             98..937
+                     /codon_start=1
+                     /product="3a protein"
+                     /protein_id="BAA22167.1"
+                     /db_xref="GI:2385458"
+                     /translation="MAFQGTSRTLTQQSSAASSDDLQKILFSPDAIKKMATECDLGRH
+                     HWMRADNAISVRPLVPQVTSNNLLSFFKSGYDAGELRSKGYMSVPQVLCAVTRTVSTD
+                     AEGSLKIYLADLGGKELSPIDGQCVTLHNHELPALISFQPTYDCPMELVGNRHRCFAV
+                     VVERHGYIGYGGTTASVCSNWQAQFSSKNNNYTHAAAGKTLVLPYNRLAEHSKPSAVA
+                     RLLKSQLNNVSSSRYLLPNVALNQNASGHESEFLNESPPFAIGSPSASRNNSFRSQVV
+                     NGL"
+     CDS             1223..1879
+                     /codon_start=1
+                     /product="coat protein"
+                     /protein_id="BAA22168.1"
+                     /db_xref="GI:2385459"
+                     /translation="MDKSGSPNASRTSRRRRPRRGSRSASGADAGLRALTQQMLKLNK
+                     TLAIGRPTLNHPTFVGSESCKPGYTFTSITLKPPEIEKGSYFGRRLSLPDSVTDYDKK
+                     LVSRIQIRINPLPKFDSTVWVTVRKVPSSSDLSVAAISAMFGDGNSPVLVYQYAASGV
+                     QANNKLLYDLSEMRADIGDMRKYAVLVYSKDDKLEKDEIVLHVDVEHQRIPISRMLPT
+                     "
+ORIGIN      
+        1 gtaatcttac cactttcttt ttcacgtcgc gtcgcgtcag tccacgctgt gtgtgtgtgt
+       61 gtgttagtta gtgtgtcgtg tttagattac ggaggttatg gctttccaag gtaccagtag
+      121 gacgttaact caacagtcct cggcggcgtc gtctgacgac ttacagaaga tattattcag
+      181 ccccgatgcc atcaagaaga tggctactga gtgtgaccta ggtcgacatc attggatgcg
+      241 cgcggataac gccatctctg tcagacctct cgttccccaa gtaaccagta acaatttatt
+      301 gtctttcttt aaatctgggt atgatgccgg tgaattgcgc tctaaaggct atatgagcgt
+      361 tcctcaagtg ctgtgtgccg ttaccaggac ggtttccacg gatgctgagg gttctttgaa
+      421 aatttatttg gctgacctag gtggtaaaga attatcccca attgatgggc agtgtgttac
+      481 tttacataat catgagctcc ctgctttgat atctttccaa cctacctacg attgccccat
+      541 ggaattagtt ggcaatcggc atcgatgttt cgcggtagtc gttgagagac atggttatat
+      601 tggttacggt ggtaccactg ctagcgtgtg tagtaactgg caagctcagt tttcttcaaa
+      661 gaataataat tacacacacg ccgctgctgg taagactctt gtgttgcctt acaacagatt
+      721 agctgagcat tcgaaaccgt cagccgtcgc tcgcctgttg aagtcgcagt taaacaacgt
+      781 tagctcatcg cgctatcttt tgccgaacgt tgctcttaat caaaatgcgt ctgggcacga
+      841 gtccgagttt ttaaacgaaa gccctccctt cgctataggg agtccgtccg cgtcccgtaa
+      901 caatagcttc agatcgcagg tggttaacgg tctttagtgt tttgttacgt tgtacccatg
+      961 tatatatata ctacgtttat cttccgtatg taaatacatg tgagtctaga gtcccgtgtg
+     1021 agttgtaacg gtagacatct gtgacgcgaa gccgcttgaa gatttcccat ctggggttag
+     1081 taagtccaca tcacagtttt aaggttcaat tccttttact ccctgttggg ccccttactt
+     1141 tctcatggat gcttctccgc gagatagcgt ttagttgttc acctgagtcg tgtgtttctt
+     1201 tgttttgcgt cttagtgtgc ctatggacaa atctggatct cccaatgcta gtagaacctc
+     1261 ccggcgtcgt cgcccgcgta gaggttctcg gtccgcttct ggtgcggatg ctgggttgcg
+     1321 tgctttgact cagcagatgc tgaaactcaa taaaaccctc gccattggtc gtcccactct
+     1381 taaccaccca accttcgtgg gtagtgaaag ctgtaaaccc ggttacactt tcacatctat
+     1441 taccctgaaa ccgcctgaaa ttgagaaagg ttcatatttt ggtagaaggt tgtctttgcc
+     1501 agattcagtc acggactatg ataagaagct tgtttcgcgc attcaaatca ggattaatcc
+     1561 tttgccgaaa tttgattcta ccgtgtgggt tacagttcgg aaagtacctt catcatccga
+     1621 tctttccgtc gccgccatct ctgctatgtt tggcgatggt aattcaccgg ttttggttta
+     1681 tcagtatgct gcgtccggag ttcaggccaa caataagtta ctttatgacc tgtccgagat
+     1741 gcgtgctgat atcggcgaca tgcgtaagta cgccgtcctg gtttactcga aagacgataa
+     1801 actagagaag gacgagattg tacttcatgt cgacgtcgag catcaacgaa ttcctatctc
+     1861 acggatgctc ccgacttagt ccgtgtgttt accggcgtcc gaagacgtta aactacactc
+     1921 tcaatcgcga gtgctgagtt ggtagtattg ctccaaactg cctgaagtcc ctaaacgtgt
+     1981 tgttgcgcgg ggaacgggtt gtccatccag cttacggcta aaatggtcag tcgtgtcttt
+     2041 cacacgccga tgtcttacaa gatgtcgagg tacccttgaa atcatctcct agatttcttc
+     2101 ggaagggctt cgtgagaagc tcgtgcacgg taatacactg atattaccaa gagtgcgggt
+     2161 atcgcctgtg gttttccaca ggttctccaa aaggagacca
+//

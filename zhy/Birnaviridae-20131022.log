@@ -1,0 +1,62 @@
+[18:56]flyzhy@bogon:~/Desktop/CAHEC/zhy[0]
+$ ~/workspace/GitHub/zhenghaiyong/BioInfo_CAHEC-VRL-ISM/scripts/12-extract_family.gbk_from_gbk.seq.gz-zhy.py ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022 Birnaviridae
+Starting Batch Extracting: ['gbvrl1.seq.gz', 'gbvrl2.seq.gz', 'gbvrl3.seq.gz', 'gbvrl4.seq.gz', 'gbvrl5.seq.gz', 'gbvrl6.seq.gz', 'gbvrl7.seq.gz', 'gbvrl8.seq.gz', 'gbvrl9.seq.gz', 'gbvrl10.seq.gz', 'gbvrl11.seq.gz', 'gbvrl12.seq.gz', 'gbvrl13.seq.gz', 'gbvrl14.seq.gz', 'gbvrl15.seq.gz', 'gbvrl16.seq.gz', 'gbvrl17.seq.gz', 'gbvrl18.seq.gz', 'gbvrl19.seq.gz', 'gbvrl20.seq.gz', 'gbvrl21.seq.gz', 'gbvrl22.seq.gz', 'gbvrl23.seq.gz', 'gbvrl24.seq.gz', 'gbvrl25.seq.gz', 'gbvrl26.seq.gz', 'gbvrl27.seq.gz']
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl1.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl1.seq.gz: 65467	Birnaviridae: 91
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl2.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl2.seq.gz: 73067	Birnaviridae: 316
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl3.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl3.seq.gz: 70620	Birnaviridae: 697
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl4.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl4.seq.gz: 70183	Birnaviridae: 875
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl5.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl5.seq.gz: 60995	Birnaviridae: 1050
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl6.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl6.seq.gz: 48122	Birnaviridae: 1050
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl7.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl7.seq.gz: 46770	Birnaviridae: 1050
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl8.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl8.seq.gz: 43907	Birnaviridae: 1050
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl9.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl9.seq.gz: 59119	Birnaviridae: 1135
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl10.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl10.seq.gz: 69306	Birnaviridae: 1521
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl11.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl11.seq.gz: 63585	Birnaviridae: 1633
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl12.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl12.seq.gz: 34935	Birnaviridae: 1673
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl13.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl13.seq.gz: 62808	Birnaviridae: 1850
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl14.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl14.seq.gz: 57322	Birnaviridae: 1931
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl15.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl15.seq.gz: 63139	Birnaviridae: 1974
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl16.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl16.seq.gz: 56396	Birnaviridae: 2038
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl17.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl17.seq.gz: 47090	Birnaviridae: 2118
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl18.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl18.seq.gz: 54858	Birnaviridae: 2138
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl19.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl19.seq.gz: 58741	Birnaviridae: 2324
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl20.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl20.seq.gz: 56195	Birnaviridae: 2792
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl21.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl21.seq.gz: 56550	Birnaviridae: 2934
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl22.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl22.seq.gz: 53460	Birnaviridae: 3036
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl23.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl23.seq.gz: 48313	Birnaviridae: 3115
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl24.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl24.seq.gz: 38742	Birnaviridae: 3132
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl25.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl25.seq.gz: 49803	Birnaviridae: 3278
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl26.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl26.seq.gz: 57311	Birnaviridae: 3375
+Parsing GenBank file sequence file: ../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl27.seq.gz
+../NCBI/ftp.ncbi.nlm.nih.gov_genbank-vrl-20131022/gbvrl27.seq.gz: 3842	Birnaviridae: 3397
+
+TOTAL Birnaviridae: 3397
+Writing to GenBank file: Birnaviridae.gbk
+3397 records done.
+

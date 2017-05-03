@@ -1,0 +1,11 @@
+ipl@IPLOUC:~/workspace/NCBI$ time ./gb_to_biosql.py gbvrl1.seq 
+Parsing Genbank file sequence file....
+gbvrl1.seq: 65460
+Writing to BioSQL database...
+/usr/lib/pymodules/python2.7/BioSQL/Loader.py:799: UserWarning: order location operators are not fully supported
+  % feature.location_operator)
+
+real	18m24.096s
+user	5m52.138s
+sys	1m3.528s
+
